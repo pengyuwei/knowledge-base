@@ -2,12 +2,12 @@
 
 分类
 
-[工具](tools)
-[教程](tutorial)
-[安全](securty)
-[游戏](game)
-[库](library)
-[工作](job)
+[工具](tools.md)
+[教程](tutorial.md)
+[安全](securty.md)
+[游戏](game.md)
+[库](library.md)
+[工作](job.md)
 
 
 # 未分类
