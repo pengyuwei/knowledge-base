@@ -9,6 +9,18 @@
 [库](library.md)
 [工作](job.md)
 
+用法示例
+
+```
+% git clone git@github.com:pengyuwei/github-index.git
+% cd github-index
+
+% grep -r "cocos" *
+tutorial.md:- cocos官方教程 https://github.com/chukong/programmers-guide-samples
+
+% grep -r "OCR" *
+tools.md:- 终端版本OCR工具：https://github.com/zh-h/Windows.Media.Ocr.Cli
+```
 
 # 未分类
 
