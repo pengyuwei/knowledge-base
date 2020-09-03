@@ -4,6 +4,7 @@
 
 [工具](tools.md)
 [教程](tutorial.md)
+[人工智能](ai.md)
 [安全](securty.md)
 [游戏](game.md)
 [库](library.md)
@@ -21,8 +22,3 @@ tutorial.md:- cocos官方教程 https://github.com/chukong/programmers-guide-sam
 % grep -r "OCR" *
 tools.md:- 终端版本OCR工具：https://github.com/zh-h/Windows.Media.Ocr.Cli
 ```
-
-# 未分类
-
-## 神经网络画画
-- https://dickrnn.github.io/

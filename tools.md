@@ -6,6 +6,7 @@
 
 - svg2notability https://github.com/jvns/svg2notability
 - 终端版本OCR工具：https://github.com/zh-h/Windows.Media.Ocr.Cli
+- WordPress to markdown：https://github.com/soulteary/wp2md
 
 ## Windows工具
 
@@ -21,3 +22,7 @@
 
 - 12306验证码识别工具：https://github.com/andelf/fuck12306
 - PC版微信机器人：https://github.com/-TonyChen56/WeChatRobot
+
+## 配置文件
+
+- https://github.com/yuanotes/dotvim
