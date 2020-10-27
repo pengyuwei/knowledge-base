@@ -17,35 +17,6 @@
 - eDrops Nature
 - Melodion
 
-## 益智游戏
-
-- Mathmare
-- super N-Back
-- CAPCOM GO！
-- Osmos
-- 微观
-- 霜 - FROST
-- Prune
-- 机械迷城
-- 银河历险记
-- 植物精灵
-- Kindom Rush
-- Human Resource Machine
-- 狂欢派对
-- 双子 Gemini
-- VR Space - Experience Moon
-- Toca Tailor Fairy Tales
-- 纪念碑谷
-- Eufloria
-- OPUS
-- Space Agency
-- Blueprint 3D
-- Quell+
-- 淘卡宝卡：发廊
-- Anthill
-- Fairy Tales
-
-
 ## 信息
 
 - 榫卯
@@ -54,16 +25,12 @@
 - iDaily
 - Ancestry - Family History
 - Discovr - discover music
+- Merck PTE（元素周期表）
 
 ## 化学
 - Merck PTE（元素周期表，英文）
 - 元素周期表（深色界面）
 - Periodic Table Quiz（元素周期表游戏）
-
-## 解谜游戏
-
-- Gorogoa
-- 花园之间
 
 ## 效率
 
@@ -100,3 +67,37 @@
 - 四维空间
 - Solar Walk
 
+
+
+## 益智游戏
+
+- Mathmare
+- super N-Back
+- CAPCOM GO！
+- Osmos
+- 微观
+- 霜 - FROST
+- Prune
+- 机械迷城
+- 银河历险记
+- 植物精灵
+- Kindom Rush
+- Human Resource Machine
+- 狂欢派对
+- 双子 Gemini
+- VR Space - Experience Moon
+- Toca Tailor Fairy Tales
+- 纪念碑谷
+- Eufloria
+- OPUS
+- Space Agency
+- Blueprint 3D
+- Quell+
+- 淘卡宝卡：发廊
+- Anthill
+- Fairy Tales
+
+## 解谜游戏
+
+- Gorogoa
+- 花园之间
