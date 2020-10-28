@@ -16,8 +16,8 @@
 用法示例
 
 ```
-% git clone git@github.com:pengyuwei/github-index.git
-% cd github-index
+% git clone git@github.com:pengyuwei/knowledge-base.git
+% cd knowledge-base
 
 % grep -r "cocos" *
 tutorial.md:- cocos官方教程 https://github.com/chukong/programmers-guide-samples
