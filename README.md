@@ -12,7 +12,7 @@
 [工作](job.md)
 - 软件：[App](app.md)
 - 生活：
-[机械键盘](appliance/keyboard,md)
+[机械键盘](appliance/keyboard.md)
 [台灯](appliance/lamp.md)
 [音响系统](appliance/sound.md)
 [实体计算器](appliance/calculator.md)
