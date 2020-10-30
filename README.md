@@ -2,7 +2,7 @@
 
 分类
 
-- 技术：
+- github仓库收集：
 [库](library.md)
 [工具](tools.md)
 [教程](tutorial.md)
@@ -10,6 +10,7 @@
 [安全](securty.md)
 [游戏](game.md)
 [工作](job.md)
+[天文](astronomy.md)
 - 软件：[App](app.md)
 - 生活：
 [机械键盘](appliance/keyboard.md)
