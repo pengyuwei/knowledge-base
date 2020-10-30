@@ -22,7 +22,7 @@
 用法示例
 
 ```
-% git clone git@github.com:pengyuwei/knowledge-base.git
+% git clone --depth=1 git@github.com:pengyuwei/knowledge-base.git
 % cd knowledge-base
 % alias kb='_kb(){ grep -rn $1 *;}; _kb'
 
