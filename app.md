@@ -34,9 +34,15 @@
 
 ## 效率
 
-- MarginNote 3
-- Notion
+思维导图
 - MindNode
+- XMind：Mac端好用，移动端表现一般
+
+笔记类
+- 印象笔记：综合指数较好，可导出明文
+- MarginNote 3：基于思维导图的知识系统
+- Notion
+- ELFINBOOK：手写扫描笔记
 
 ## 工具
 
