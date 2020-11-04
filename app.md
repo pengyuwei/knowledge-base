@@ -3,6 +3,8 @@
 ## 数学/计算
 
 - CurvePlotter：数学计算器
+- RealCalc（全功能计算器）
+- Mathstudio express（数学画图，支持编程）
 - 微软数学
 - 分形的奥秘
 - Frax Lite
