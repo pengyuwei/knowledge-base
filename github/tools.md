@@ -2,6 +2,10 @@
 
 - procps: https://github.com/mmalecki/procps
 
+## 办公
+
+- 流程图：https://github.com/jgraph/drawio-desktop/releases
+
 ## 格式转化
 
 - svg2notability https://github.com/jvns/svg2notability
