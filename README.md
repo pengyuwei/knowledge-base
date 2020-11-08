@@ -2,6 +2,13 @@
 
 分类
 
+- 生活：
+[机械键盘](appliance/keyboard.md)
+[台灯](appliance/lamp.md)
+[音响系统](appliance/sound.md)
+[实体计算器](appliance/calculator.md)
+- 天文：
+[天文软件](astronomy.md)
 - github仓库收集：
 [库](github/library.md)
 [工具](github/tools.md)
@@ -13,13 +20,8 @@
 [天文](github/astronomy.md)
 - 软件：
 [App](app.md)
-- 生活：
-[机械键盘](appliance/keyboard.md)
-[台灯](appliance/lamp.md)
-[音响系统](appliance/sound.md)
-[实体计算器](appliance/calculator.md)
-- 天文：
-[天文软件](astronomy.md)
+- 开发：
+[游戏引擎](gameengine.md)
 
 用法示例
 
