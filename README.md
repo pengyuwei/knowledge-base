@@ -25,7 +25,7 @@ Develop
 - [App](app.md)
 - [游戏引擎](gameengine.md)
 
-用法示例
+# 用法示例
 
 ```
 % git clone --depth=1 git@github.com:pengyuwei/knowledge-base.git
