@@ -9,11 +9,12 @@
 [实体计算器](appliance/calculator.md)
 - 天文：
 [天文软件](astronomy.md)
+- 资源：
+[音效](sound.md)
 
 Develop
 
-- github仓库收集：
-[库](github/library.md)
+- [库](github/library.md)
 [工具](github/tools.md)
 [教程](github/tutorial.md)
 [人工智能](github/ai.md)
@@ -21,14 +22,8 @@ Develop
 [游戏](github/game.md)
 [工作](github/job.md)
 [天文](github/astronomy.md)
-- 软件：
-[App](app.md)
-- 开发：
-[游戏引擎](gameengine.md)
-
-资源
-
-- [音效](sound.md)
+- [App](app.md)
+- [游戏引擎](gameengine.md)
 
 用法示例
 
