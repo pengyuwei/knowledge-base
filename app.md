@@ -11,6 +11,16 @@
 - 曲线绘图Graph Calc
 - 算法动画图解
 
+## 物理
+
+- phyphox：用手机测量重力加速度
+
+## 化学
+- Merck PTE（元素周期表，英文）
+- 元素周期表（深色界面）
+- Periodic Table Quiz（元素周期表游戏）
+
+
 ## 音乐
 
 - Falling Stars by Trident Vitaility Gum
@@ -28,11 +38,6 @@
 - Ancestry - Family History
 - Discovr - discover music
 - Merck PTE（元素周期表）
-
-## 化学
-- Merck PTE（元素周期表，英文）
-- 元素周期表（深色界面）
-- Periodic Table Quiz（元素周期表游戏）
 
 ## 效率
 
