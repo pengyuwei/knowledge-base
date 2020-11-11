@@ -26,6 +26,10 @@ Develop
 - 开发：
 [游戏引擎](gameengine.md)
 
+资源
+
+- [音效](sound.md)
+
 用法示例
 
 ```
