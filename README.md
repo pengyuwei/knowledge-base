@@ -22,6 +22,7 @@ Develop
 [游戏](github/game.md)
 [工作](github/job.md)
 [天文](github/astronomy.md)
+[emoji](emoji.md)
 - [App](app.md)
 - [游戏引擎](gameengine.md)
 
