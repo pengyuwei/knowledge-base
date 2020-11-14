@@ -9,7 +9,7 @@
 
 以下我没用过
 
-- Herman Miller的Embody
+- Herman Miller的Embody 1.2万
 - Herman Miller的Aeron
 - 网易严选人体工学转椅 1099元
 - 永艺蒙柯
