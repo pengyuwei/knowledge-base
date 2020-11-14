@@ -7,6 +7,7 @@
 [台灯](appliance/lamp.md)
 [音响系统](appliance/sound.md)
 [实体计算器](appliance/calculator.md)
+[电脑椅](office.md)
 - 天文：
 [天文软件](astronomy.md)
 - 资源：
