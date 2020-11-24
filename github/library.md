@@ -24,3 +24,6 @@
 ## 知识图谱
 
 - RedisGraph https://github.com/RedisGraph/RedisGraph 一个基于Redis的图数据库
+
+## Redis
+- Redis可视化工具 https://github.com/qishibo/AnotherRedisDesktopManager
