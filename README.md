@@ -1,33 +1,36 @@
 # 个人知识库
 
-分类
+## 计算机科学技术
 
-- 生活：
-[机械键盘](appliance/keyboard.md)
-[台灯](appliance/lamp.md)
-[音响系统](appliance/sound.md)
-[实体计算器](appliance/calculator.md)
-[电脑椅](office.md)
+- [库](technology/library.md)
+[工具](technology/tools.md)
+[教程](technology/tutorial.md)
+[人工智能](technology/ai.md)
+[安全](technology/securty.md)
+[游戏](technology/game.md)
+[工作](technology/job.md)
+[天文](technology/astronomy.md)
+[emoji](technology/emoji.md)
+- [游戏引擎](technology/gameengine.md)
+- 区块链：[blockchain](technology/blockchain.md)
+
+## 天文
+
 - 天文：
-[天文软件](astronomy.md)
-- 资源：
-[音效](sound.md)
+[天文软件](astronomy/astronomy.md)
+
+## 生活
+
+- 硬件：[机械键盘](life/appliance/keyboard.md)
+[台灯](life/appliance/lamp.md)
+[音响系统](life/appliance/sound.md)
+[实体计算器](life/appliance/calculator.md)
+[电脑椅](life/office.md)
 - 程序员康养：
-[眼部保养](health.md)
-
-Develop
-
-- [库](github/library.md)
-[工具](github/tools.md)
-[教程](github/tutorial.md)
-[人工智能](github/ai.md)
-[安全](github/securty.md)
-[游戏](github/game.md)
-[工作](github/job.md)
-[天文](github/astronomy.md)
-[emoji](emoji.md)
-- [App](app.md)
-- [游戏引擎](gameengine.md)
+[眼部保养](life/health.md)
+- App和软件：[App推荐](life/app.md)
+- 资源：
+[音效](life/sound.md)
 
 # 用法示例
 
