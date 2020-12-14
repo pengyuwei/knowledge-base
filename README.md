@@ -12,9 +12,14 @@
 - [游戏引擎](technology/gameengine.md)
 - [区块链](technology/blockchain.md)
 
-## 天文
+## 自然科学
 
+天文
 - [天文软件](astronomy/astronomy.md)
+
+## 心理学
+
+- [统计学](psychology)
 
 ## 生活
 
