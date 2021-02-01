@@ -23,7 +23,7 @@
 
 ## 生活
 
-- 硬件：[机械键盘](life/appliance/keyboard.md)
+- 硬件：[机械键盘](life/appliance/keyboard.md) [PC键盘](https://www.pckeyboard.com/page/product/UNIZPHA)
 [台灯](life/appliance/lamp.md)
 [音响系统](life/appliance/sound.md)
 [实体计算器](life/appliance/calculator.md)

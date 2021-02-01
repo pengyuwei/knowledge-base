@@ -9,6 +9,7 @@
 
 ## 格式转化
 
+- [pup](https://github.com/ericchiang/pup) 从终端上对html网页进行内容提取的工具
 - svg2notability https://github.com/jvns/svg2notability
 - 终端版本OCR工具：https://github.com/zh-h/Windows.Media.Ocr.Cli
 - WordPress to markdown：https://github.com/soulteary/wp2md
